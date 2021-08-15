@@ -2,10 +2,6 @@
 -I’m interested in Blockchain and Website technologies
 
 -I’m currently learning Solidity and React development
-
--How to reach me:
-  Telegram: @Criptoeconomiaorg
-  email: criptoeconomiaorg@protonmail.com
   
 
 <!---
