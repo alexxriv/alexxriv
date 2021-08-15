@@ -1,5 +1,4 @@
--Hi, I’m @criptoeconomia
-
+-Hi, I’m @alexxriv
 -I’m interested in Blockchain and Website technologies
 
 -I’m currently learning Solidity and React development
